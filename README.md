@@ -22,4 +22,4 @@ Builing Package:
 
 Demonstration of the result
 
-    ![](demo.png)
+![](demo.png)
