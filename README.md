@@ -1,10 +1,10 @@
-#About
+# About
 
 A C++ implementation of the sampled odometry motion model of a 2D robot based on contents in the Probabilistic Roboitcs by Sebastian Thrun et. al.
 
 The package requires OpenCV as an external dependency.
 
-#Builing Package:
+# Builing Package:
 
 - clone the package
 
@@ -22,6 +22,6 @@ The package requires OpenCV as an external dependency.
 
         ~$ ./main
 
-#Demonstration of the result
+# Result Demonstration
 
 ![](demo.png)
