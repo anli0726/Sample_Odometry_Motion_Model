@@ -11,10 +11,12 @@ Builing Package:
 
 - go to the root of the package, make the build directory, go into it, and cmake the file, then make file
 
-    ~$ mkdir build
-    ~$ cd build
-    ~$ camke ..
-    ~$ make
+'''
+~$ mkdir build
+~$ cd build
+~$ camke ..
+~$ make
+'''
 
 - execute the main function
 
